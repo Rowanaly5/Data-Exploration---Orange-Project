@@ -1,4 +1,4 @@
-# Data-Exploration---Orange-Project
+# Data-Exploration-Orange-Project
 
 1- Merging data for creating a dataset is an important step after collecting your data
 Please create a data table, which has merged data from the below two data sets to gather all info:
